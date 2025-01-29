@@ -20,10 +20,10 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Auto preenchimento de planilhas;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto para autopreenchimento baseado em parametros preestabelecidos
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
